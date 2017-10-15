@@ -1,6 +1,5 @@
 # PythonExercises
-Colect all the exercises we have done
-
+Colect all the exercises we have done. 
 古语云：“不积跬步，无以至千里；不积小流，无以成江海。”
 
 ### 001：斐波那契数列（面试题）
@@ -27,6 +26,7 @@ Colect all the exercises we have done
 为了得到一个数的"相反数",我们将这个数的数字顺序颠倒,然后再加上原先的数得到"相反数"。
 
 例如,为了得到1325的"相反数",首先我们将该数的数字顺序颠倒,我们得到5231,之后再加上原先的数,我们得到5231+1325=6556.如果颠倒之后的数字有前缀零,前缀零将会被忽略。例如n = 100, 颠倒之后是1.
+<<<<<<< HEAD
 
 ### 006：数字排列组合成三位数
 
@@ -35,3 +35,5 @@ Colect all the exercises we have done
 ### 007：打印9*9乘法表
 
 输出9*9口诀。
+=======
+>>>>>>> 8914a5004f2f9ac4e4e56ed652fa66fd7a4d6d77
